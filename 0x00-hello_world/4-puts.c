@@ -1,5 +1,5 @@
 #!/bin/bash
-gcc -Wall
+gcc -o 4-puts 4-puts.c
 #include <stdio.h>
 
  int main() {
