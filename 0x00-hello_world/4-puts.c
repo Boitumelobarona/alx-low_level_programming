@@ -1,5 +1,5 @@
 #!/bin/bash
-
+gcc -Wall
 #include <stdio.h>
 
  int main() {
