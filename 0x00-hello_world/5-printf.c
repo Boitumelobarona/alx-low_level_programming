@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-  *main- prints "with proper grammar, but the outcome is a piece of art," newline follows
-  *
+  *mainu- prints "with proper grammar, but the outcome is a piece of art,"
+  *newline follows
   *Return: Always 0(Success)
   */
 int main(void)
