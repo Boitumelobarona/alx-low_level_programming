@@ -6,7 +6,7 @@
   */
 int main(void)
 {
-	int = 6;
+	int n;
 
 	if (n > 0)
 	{
