@@ -6,11 +6,12 @@
   */
 int main(void)
 {
-	int n;
+	char num[29] = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9";
+	int i;
 
-	for (n = 0; n < 9; n++)
+	for (i = 0; i < 9; i++)
 	{
-		putchar(n);
+		putchar(num[i]);
 		putchar(',');
 		putchar(' ');
 	}
